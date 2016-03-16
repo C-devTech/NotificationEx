@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="notify_content_title">Message</string>
+    <string name="notify_content_text">New Message</string>
+    <string name="notify_content_ticker">Alert New Message</string>
+</resources>
